@@ -3,6 +3,8 @@ Google官方支持Kotlin了，作为一个正在自学Android的人，当然也�
 
 
 ## 参考资料
-![Kotlin1.1官方文档](doc/kotlin-docs.pdf)
+[Getting started with Android and Kotlin](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
+
+[Kotlin1.1官方文档](doc/kotlin-docs.pdf)
 
 [中文kotlin项目](https://github.com/huanglizhuo/kotlin-in-chinese)
