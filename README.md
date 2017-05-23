@@ -3,6 +3,7 @@ Google官方支持Kotlin了，作为一个正在自学Android的人，当然也�
 
 # HelloWorld
 [Android Kotlin之曲折HelloWord]()。
+尝试了一下比较火的开源项目[Anko](https://github.com/Kotlin/anko)。
 
 
 ## 参考资料
