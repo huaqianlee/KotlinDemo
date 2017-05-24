@@ -2,7 +2,7 @@
 Google官方支持Kotlin了，作为一个正在自学Android的人，当然也得跟上潮流学学新语言了。本项目用来收纳与kotlin学习相关的code和资料。
 
 # HelloWorld
-[Android Kotlin之曲折HelloWord]()。
+[Android Kotlin之曲折HelloWord](http://huaqianlee.github.io/2017/05/23/Kotlin/Kotlin-HElloWorld/)。
 尝试了一下比较火的开源项目[Anko](https://github.com/Kotlin/anko)。
 
 
