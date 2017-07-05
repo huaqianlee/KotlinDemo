@@ -23,3 +23,6 @@ Google官方支持Kotlin了，作为一个正在自学Android的人，当然也�
 
 [中文kotlin项目](https://github.com/huanglizhuo/kotlin-in-chinese) 
 
+[android大牛博客（有kotlin书籍）](https://antonioleiva.com/)
+
+[Google Kotlin教程](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html)
